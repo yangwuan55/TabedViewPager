@@ -1,4 +1,1 @@
-TabPagerView
-============
-
-A Tab with PagerView like weichat
+test viewpager with views.
